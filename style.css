@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.menu-bar{
+  background-image: linear-gradient(to right, #6db9ef, #7ce08a);
+}
+
+.nav-link{
+  font-size: 24px;
+  color:#fff !important;
+  margin: 2px;
+}
+
+.navbar-brand .ima{
+  width: 200px;
+  height: 65px;
+}
+
+.navbar-nav{
+  text-align: right;
+}
