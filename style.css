@@ -22,3 +22,9 @@
 .navbar-nav{
   text-align: right;
 }
+
+.menubar .navbar-toggler{
+  padding-right: 0;
+  border: none;
+  outline: none;
+}
