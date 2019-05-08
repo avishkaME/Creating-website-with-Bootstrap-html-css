@@ -34,4 +34,17 @@
   background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(img/job.jpg);
   background-size: cover;
   background-position: center;
+  color: #fff;
+}
+
+.banner h1{
+  padding-top: 170px;
+  font-size: 70px;
+  letter-spacing: 4px;
+  font-weight: 600;
+  text-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+}
+
+.banner p{
+  font-size: 24px;
 }
