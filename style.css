@@ -102,3 +102,9 @@ h3::before{
   margin: 10px 20px;
   max-height: 100px;
 }
+
+/* jobs section */
+#jobs{
+  background: #49beb7;
+  padding: px 0;
+}
