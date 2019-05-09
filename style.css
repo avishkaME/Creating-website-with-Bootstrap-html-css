@@ -51,6 +51,7 @@
 
 .search-job{
   padding: 30px 0;
+  margin: -50px 6% 50px;;
   background-image: linear-gradient(to right, #6db9ef, #7ce08a);
 
 }
@@ -62,4 +63,13 @@
   border-radius: 0;
   box-shadow: none !important;
   border: none !important;
+}
+
+.search-job .btn-primary{
+  border-radius: 0;
+  box-shadow: none !important;
+  border: none;
+  display: inline-flex;
+  margin: 5px;
+  padding: 5px 20px;
 }
