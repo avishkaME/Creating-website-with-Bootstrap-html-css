@@ -108,3 +108,56 @@ h3::before{
   background: #49beb7;
   padding: px 0;
 }
+
+.company-details{
+   box-shadow: 0 2px 70px 0 rgba(110, 130, 208, 0.5);
+   border-radius: 5px;
+   margin-bottom: 20px;
+}
+
+.job-update{
+  background: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.job-update .fa{
+  margin-top: 5px;
+  margin-right: 10px;
+  color: #77d1b1;
+}
+
+.job-update small{
+  background: #efefef;
+  padding: 1px 5px;
+  margin: 0 5px;
+  border-radius: 2px;
+}
+
+.job-update p{
+  margin-bottom: 0 !important;
+}
+
+.job-update a{
+  text-decoration: none !important;
+  color: #b6bed2;
+  float: right;
+}
+
+.apply-btn{
+  height: 40px;
+  background-image: linear-gradient(to right, #6db9ef, #7ce08a);
+  padding: 7px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+
+}
+
+.apply-btn .btn-primary{
+  padding: 0 30px;
+  float: right;
+  border-radius: 0;
+  box-shadow: none !important;
+  background: transparent;
+  border: 1px solid #fff;
+}
