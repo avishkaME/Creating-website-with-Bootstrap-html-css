@@ -174,3 +174,24 @@ h3::before{
   color: #fff;
   background-image: linear-gradient(to right, #6db9ef, #7ce08a);
 }
+
+#site-stats{
+  padding: 100px 0;
+}
+
+#site-stats h3{
+  margin-bottom: 30px;
+}
+
+.stats-box{
+  padding: 30px;
+  border-radius: 10px;
+  margin: 20px 0;
+  box-shadow: 0 2px 40px 0 rgba(110, 130, 208, 0.18);
+}
+
+.stats-box .fa{
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
