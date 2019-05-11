@@ -161,3 +161,16 @@ h3::before{
   background: transparent;
   border: 1px solid #fff;
 }
+
+.page-link li{
+  height: 25px;
+  width: 25px;
+  list-style: none;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.page-link li:hover, .active{
+  color: #fff;
+  background-image: linear-gradient(to right, #6db9ef, #7ce08a);
+}
