@@ -175,6 +175,8 @@ h3::before{
   background-image: linear-gradient(to right, #6db9ef, #7ce08a);
 }
 
+/* Site stat section */
+
 #site-stats{
   padding: 100px 0;
 }
@@ -194,4 +196,16 @@ h3::before{
   font-size: 30px;
   margin-right: 10px;
   margin-bottom: 10px;
+}
+
+/* App banner section */
+
+#app-banner{
+  background-image: linear-gradient(to right, #6db9ef, #7ce08a);
+  padding: 50px 0;
+}
+
+#app-banner h1{
+  margin-top: 20px;
+  color: #fff;
 }
