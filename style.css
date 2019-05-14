@@ -209,3 +209,25 @@ h3::before{
   margin-top: 20px;
   color: #fff;
 }
+#app-banner img{
+  width: 150px;
+  margin: 50px 0;
+}
+
+#app-banner .ply{
+  height: 78px;
+}
+
+#footer{
+  background: #ccc;
+  padding: 20px 10px 8px;
+}
+
+#footer img{
+  height: 40px;
+  width: 50px;
+}
+
+#footer .fb{
+  height: 35px;
+}
